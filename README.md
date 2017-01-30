@@ -1,4 +1,4 @@
-# credit_check
+# Credit Check
 
 This is a program that implements the Luhn algorithm to validate a credit card number without using:
 
